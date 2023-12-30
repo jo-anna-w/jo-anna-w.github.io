@@ -49,12 +49,11 @@ body {
 
 .intro {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 400px 1fr;
 }
 
 .headshot {
-    width: 35%;
-    border: 1px solid var(--white);
+    width: 300px;
 }
 
 .productions-grid {
